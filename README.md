@@ -52,7 +52,7 @@
             
             <li><a class="dropdown-item" href="#"></a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">لیست سیسمونی(کامل)</a></li>
+            <li><a class="dropdown-item" href="#">لیست سیسمونی کامل</a></li>
 
           </ul>
            <li class="nav-item">
